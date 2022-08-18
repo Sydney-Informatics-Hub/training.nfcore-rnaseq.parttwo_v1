@@ -27,3 +27,13 @@ keypoints:
 - How to run the nfcore-rnaseq pipeline on the Pawsey Nimbus VM?
 - What are the most significant features of the nfcore-rnaseq pipeline?
 - What do we do with the gene-count matrix?
+
+**Notes**   
+<sup id="f1">1[↩](#a1)</sup> Here is a list of ['nfcore pipelines'](https://nf-co.re/pipelines/).
+
+___
+<br>
+
+
+
+{% include links.md %}
