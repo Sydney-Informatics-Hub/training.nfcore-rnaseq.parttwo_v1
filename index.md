@@ -16,7 +16,7 @@ __This workshop is in a DRAFT stage.__
 
 **Follow-on courses:** This course is __part two__ of the two-part __[RNA sequencing training series](https://sydney-informatics-hub.github.io/training.RNAseq.series/)__. 
 
-We recommend attending both courses if you would like and end to end overview of how to perform the analysis. If you are only interested in the technologies used, you may be able to get away with attending only the parts of interest :smiley:.
+We recommend attending both courses if you would like an end-to-end overview of how to perform the analysis. If you are only interested in the technologies used, you may be able to get away with attending only the parts of interest :smiley:.
 
 
 
